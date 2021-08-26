@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e2ccbdb-4493-4910-9a3e-7cac7fbe9d67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tests-selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/Locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/AlarmesKeyword.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/AlertesKeyword.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/LoginKeyword.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/RulesKeyword.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/WhitelistsKeyword.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/common.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Preprod/AlarmesPP.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Preprod/AlertesPP.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Preprod/LoginPP.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Preprod/RulesPP.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Preprod/WhitelistsPP.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/Alarmes.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/Alertes.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/Login.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/Rules.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/Whitelists.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/reports/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/reports/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests_Recette/reports/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pabot_results/1/2/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pabot_results/1/2/robot_stderr.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pabot_results/1/2/robot_stdout.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pabot_results/2/3/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pabot_results/2/3/robot_stderr.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pabot_results/2/3/robot_stdout.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-177.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-178.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-191.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-207.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-217.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-218.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-219.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-221.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-screenshot-99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Rules.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/RulesKeyword.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pabotsuitenames" beforeDir="false" afterPath="$PROJECT_DIR$/.pabotsuitenames" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/reports/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tests_Preprod/reports/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/reports/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests_Preprod/reports/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tests_Preprod/reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/resource.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/valid_login.robot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/1/0/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/1/0/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/1/0/robot_stderr.out" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/1/0/robot_stderr.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/1/0/robot_stdout.out" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/1/0/robot_stdout.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/2/1/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/2/1/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/2/1/robot_stderr.out" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/2/1/robot_stderr.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/2/1/robot_stdout.out" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/2/1/robot_stdout.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/3/2/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/3/2/robot_stderr.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/3/2/robot_stdout.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/output1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/output1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/output2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pabot_results/output2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pabot_results/output3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../demo-python/selenium-examples/robotframework/vdc/Tests/resource.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PageObjects/Variables.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Tests_Recette/Login.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Resources/AlarmesKeyword.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Resources/RulesKeyword.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Tests_Recette/Alarmes.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Tests_Recette/Rules.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Resources/AlertesKeyword.robot" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Resources/common.robot" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1rlBd1FiC9tJmGyUysAUqWKchKz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="shared-indexes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TMP_FALL53278\Desktop\tests-selenium" />
+      <recent name="C:\Users\TMP_FALL53278\Desktop\tests-selenium\Tests" />
+      <recent name="C:\Users\TMP_FALL53278\Desktop\tests-selenium\Resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TMP_FALL53278\Desktop\tests-selenium\Resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e2ccbdb-4493-4910-9a3e-7cac7fbe9d67" name="Default Changelist" comment="" />
+      <created>1619540880690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619540880690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
